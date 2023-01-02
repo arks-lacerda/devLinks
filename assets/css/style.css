@@ -40,7 +40,8 @@ body * {
 }
 
 #container {
-  width: 36rem;
+  width: 100%;
+  max-width: 58.8rem;
   height: 71.2rem;
   margin: 5.6rem auto 0rem;
   padding: 0 2.4rem;
