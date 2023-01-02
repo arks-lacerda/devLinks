@@ -3,8 +3,8 @@
 
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/darkmode.png" width="40%">
-  <img alt="projeto DevLinks" src=".github/lightmode.png" width="40%">
+  <img alt="project DevLinks" src=".github/darkmode.png" width="40%">
+  <img alt="project DevLinks" src=".github/lightmode.png" width="40%">
 </p>
 
 ## 🚀 Technologies
