@@ -20,9 +20,9 @@ This project was developed with the following technologies:
 
 DevLinks is a link aggregator to use as an online business card.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Access the finished project, online](https://arks-lacerda.github.io/devLinks/)
 
 
 ## 🔖 Layout
 
-Project layout através [FROM THIS LINK](https://www.figma.com/community/file/1187422022288947321).
+Project layout [FROM THIS LINK](https://www.figma.com/community/file/1187422022288947321).
